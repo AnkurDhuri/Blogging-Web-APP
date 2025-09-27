@@ -51,3 +51,5 @@ mvn spring-boot:run
 
 **The app will start at:**
 👉 http://localhost:8080
+
+## Screenshoots
